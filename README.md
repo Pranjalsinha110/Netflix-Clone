@@ -65,8 +65,6 @@ cd Netflix-clone
 Open index.html in your preferred web browser.
 Usage
 Once the project is set up, you can explore the various features and functionalities of the Netflix Clone. Navigate through the different sections, interact with the dynamic content, and experience the responsive design.
-# License
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
 # Acknowledgements
 Thanks to the open-source community for their invaluable resources and support.
