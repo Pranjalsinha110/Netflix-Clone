@@ -1,0 +1,810 @@
+/* FOR MOBILE SCREEN */
+@media screen and (min-width:320px) and (max-width:556px) { 
+    .netflix-logo{
+            width:150px;
+    }
+    .sign_in{
+    font-size: 10px;
+    width:50px;
+    }
+    .lang{
+        width: 64px;
+        font-size: 10px;
+    }
+    .punch_line{
+        font-size: 32px;
+        position: relative;
+        top: 0px;
+    }
+    .punch_line_second{
+        font-size: 18px;
+        position: relative;
+        top: 0px;
+    }
+    .punch_line_third{
+        position: relative;
+        top: 0px;
+        margin: auto;
+        width: 200px;
+    }
+    .email_button{
+        position: relative;
+        top: 120px;
+
+    }
+    .email_box{
+        margin-left: 40px;
+    }
+    .get_started{
+        position: relative;
+        top: 80px;
+        right: 160px;
+        font-size: 20px;
+        margin-right: 0px;
+    }
+   .enjoy_your_tv{
+    margin-top: 50px;
+    margin-left: 0px;
+    font-size: 32px;
+    font-weight: 700;
+    text-align: center;
+   }
+   .second_section_punchline{
+    font-size: 21px;
+    font-weight: 400;
+    text-align: center;
+    margin-left: 0px;
+    margin-top: 16px;
+  }
+  .second_section_punchline_3{
+    font-size: 21px;
+    font-weight: 400;
+    text-align: center;
+    margin-left: 0px;
+  }
+.tvimg_and_video{
+    text-align: center;
+    position: relative;
+    bottom: 0px;
+    right: 0px;
+    overflow: hidden;
+}
+.loop_video{
+    position: absolute;
+    left:0px;
+    top: 0px;
+}
+.tv_png_video{
+    width: 272px;
+    height: 204px;
+}
+.third_section{
+    height: 100vh;
+}
+.third_section_mobileimg{
+        position: relative;
+        left: 0px;
+        top: 300px;
+        height:204px;
+        width: 272px;
+}
+.mobileimg_down_section{
+    position: absolute;
+    left: 20px;
+   top: 1620px;
+   height: 82px;
+   width: 280px;
+}
+.stranger_thingsimg{
+    height: 68px;
+}
+.loading_gif {
+    top: 15px;
+}
+.download_your-show{
+    font-size: 32px;
+    font-weight: 700;
+    position: relative;
+    bottom: 150px;
+    text-align: center;
+    left: 0px;
+    width: 272px;
+}
+.save_your_fav{
+    text-align: center;
+    position:relative;
+    bottom: 90px;
+    left: 0px;
+    font-size: 18px;
+    font-weight: 400;
+    width: 272px;
+}
+.watch-everywhere{
+    position: relative;
+    top: 0px;
+    left: 20px;
+    font-size: 32px;
+    font-weight: 700;
+    width: 272px;
+    text-align: center;
+}
+.stream_unlimited{
+    position: relative;
+    top: 0px;
+    left: 20px;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+    width: 272px;
+
+}
+.tv_tab_mob{
+    position: relative;
+    right: 30px;
+    bottom: 0px;
+    width: 272px;
+    height: 204px;
+    overflow: hidden;
+}
+.secred-game{
+    text-align: center;
+    position:absolute;
+    bottom: 35px;
+    left: 50px;
+    justify-content: center;
+}
+.secred-game-gif{
+    width: 175px;
+    
+    height:204px;
+}
+.kids-profile{
+    position: relative;
+    right: 0px;
+    left: 30px;
+    top: 0px;
+    font-size: 32px;
+    font-family: 700;
+    width: 272px;
+
+}
+.kids-members{
+    position: relative;
+    top: 0px;
+    left: 30px;
+    font-size: 18px;
+    font-weight: 400;
+    width: 272px;
+    height: 92.8px;
+}
+.kids_cartoon{
+    top: 10px;
+    margin-left: 0px;
+    width: 272px;
+    height: 204px;
+}
+.sixth_section{
+    height: 300vh;
+
+}
+.frequently_asked_question{
+    left: 0px;
+    top: 0px;
+    width: 272px;
+    height: 81.6px;
+    font-size: 32px;
+    font-weight: 700;
+}
+.first-question{
+    
+    left: 35px;
+    width: 224px;
+}
+.what-is-netflix{
+    font-size: 18px;
+    font-weight: 400;
+}
+.plus{
+    font-size: 28px;
+}
+.detail{
+    height: 380px;
+}
+.inside_detail{
+    font-size: 18px;
+}
+.second-question{
+    font-size: 18px;
+    font-weight: 400;
+    width: 224px;
+    height: 100px;
+    left: 35px;
+    
+   margin-top: 0px;
+   
+
+}
+.plus_2nd{
+    font-size: 28px;
+    left: 0px;
+
+}
+.detail_2nd{
+    top: 50px;
+    height:180px;
+}
+.third-question{
+    font-size: 18px;
+    font-weight: 400;
+    width: 224px;
+    height: 100px;
+    left: 35px;
+    
+   margin-top: 0px;
+    
+}
+.where_i_watch{
+    font-size: 18px;
+    font-weight: 400;
+}
+.plus_3rd, .plus_4th, .plus_5th,.plus_6th{
+    font-size: 28px;
+    left: 0px;
+}
+.detail_3rd{
+    top: 50px;
+    height:450px;
+}
+.forth-question,.fifth-question,.sixth-question{
+    font-size: 18px;
+    font-weight: 400;
+    width: 224px;
+    height: 100px;
+    left: 35px; 
+   margin-top: 0px;
+    
+}
+.how_do_i_cancle,.what_can_i_watch,.is_netflix_good{
+    font-size: 18px;
+}
+.detail_4th{
+    height: 200px;
+}
+.after_faq{
+    left: 0px;
+    width: 300px;
+    
+}
+.down_get_started{
+    left: 60px;
+}
+
+.call{
+    left: 20px;
+}
+.foot{
+    width: 276px;
+    height: 565px;
+ 
+}
+.row_1,.row_2,.row_3{
+    left: 0px;
+    float: none;  
+}
+
+.row_4{
+    right: 157px;
+    
+}
+
+.footer_lang_change{
+    left: 0px;
+    top: 220px;
+}
+.pranjal{
+    font-size: 13px;
+}
+
+
+}
+/* FOR TABLET SCREEN */
+@media  screen and (min-width:557px)and (max-width:992px) {
+
+    
+    .lang{
+        margin-top: 20px;
+    }
+    .sign_in{
+        margin-top: 15px;
+    }
+    .punch_line{
+        font-size: 32px;
+        font-weight: 700;
+        height: 40.8px;
+        width: 644.688px;
+        margin-left: 40px;
+    }
+    .punch_line_second{
+        font-size: 18px;
+        font-weight: 400;
+        height: 23.2;
+        margin-block-start: 16px;
+        width: 644.688px;
+        margin-left: 40px;
+    }
+    .punch_line-third{
+       margin-top: 0px;
+    }
+    .email_button{
+       margin-top: 50px;
+       
+    }
+    .get_started{
+        margin-right: 100px;
+    }
+    .email_box{
+        margin-left: 50px;
+    }
+    .second_section{
+        height: 110vh;
+    }
+   .enjoy_your_tv{
+    font-size: 32px;
+    text-align: center;
+    font-weight: 700;
+    margin-left: 0px;
+    margin-top: 50px;
+    }
+    .second_section_punchline{
+        font-size: 18px;
+        font-weight: 400;
+        text-align: center;
+        margin-left: 0px;
+        margin-top: 16px;
+    
+      }
+      .second_section_punchline_3{
+        font-size: 18px;
+        font-weight: 400;
+        text-align: center;
+        margin-left: 0px;
+      }
+    .tvimg_and_video{
+        position: relative;
+        bottom: 0px;
+        right: 50px;
+        align-items: center;
+        justify-content: center; 
+    }
+    .tv_png{
+        height: 480px;
+        width: 640px;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .loop_video{
+        position: absolute;
+        left:183px;
+        top: 0px;
+        
+    }
+    .tv_png_video{
+        width: 490px;
+        height: 482px;
+    }
+    .third_section{
+        height: 120vh;
+    }
+    .third_section_mobileimg{
+        position: relative;
+        left: 0px;
+        top: 180px; 
+        width: 640px;
+        height: 480px;
+    }
+    .mobileimg_down_section{
+        position: absolute;
+        left: 120px;
+       top: 1950px;
+       width: 450px;
+    }
+    .stranger-things_downloading{
+          margin-left:50px ;
+    }
+    .loading_downloading{
+        margin-left: 180px;
+    }
+    .download_your-show{
+        position: relative;
+        bottom: 400px;
+        left: 80px;
+       font-weight: 700;
+        font-size: 32px;
+        text-align: center;
+    }
+    .save_your_fav{
+        position: relative;
+        bottom: 420px;
+        left: 50px;
+        font-size: 18px;
+        font-weight: 400;
+        width: 640px;
+        text-align: center;
+
+    }
+    .watch-everywhere{
+        position: relative;
+        top: 10px;
+        left: 80px;
+        font-size: 32px;
+        font-weight: 700;
+        text-align: center;
+       
+    }
+    .stream_unlimited{
+        position: relative;
+        top: 0px;
+        left:80px;
+        font-size: 18px;
+        font-weight:400;
+        text-align: center;
+        line-height: 20px;
+    }
+    .tv_tab_mob{
+        position: relative;
+        bottom: 0px;
+        right: 130px;
+    }
+    .forth_section{
+        height: 100vh;
+    }
+    .fifth_section{
+        height: 120vh;
+    }
+    .kids-profile{
+        top: 30px;
+        left: 0px;
+        right: 0px;
+        text-align: center;
+        font-size: 32px;
+        font-weight: 700;
+        width: 704px;
+        
+    }
+    .kids-members{
+        left: 30px;
+        top: 0px;
+        font-size: 18px;
+        font-weight: 400;
+        width: 704px;
+       
+        
+    }
+    .kids_cartoon{
+        top: 50px;
+        width: 640px;
+        height: 480px;
+        margin-left: 50px;
+    }
+    .sixth_section{
+        height: 300vh;
+    }
+    .frequently_asked_question{
+        left: 50px;
+        font-size: 32px;
+        font-weight: 700;
+        width: 704px;
+        height: 40.8px;
+    }
+    .first-question{
+        font-size: 18px;
+        font-weight: 400;
+        width: 656px;
+        left: 6%;
+        
+        
+    }
+    .plus{
+        right: 0px;
+        font-size: 33px;
+        
+    }
+    .what-is-netflix{
+        font-size: 18px;
+        font-family: 400;
+    }
+    .inside_detail{
+        font-size: 18px;
+        font-weight: 400;
+    }
+    .second-question{
+        font-size: 18px;
+        font-weight: 400;
+        width: 656px;
+        left: 6%;
+
+    }
+    .plus_2nd{
+        right: 0px;
+        font-size: 33px;
+    }
+    .third-question,.forth-question,.fifth-question,.sixth-question{
+        font-size: 18px;
+        font-weight: 400;
+        width: 656px;
+        left: 6%;
+
+    }
+    .where_i_watch, .how_do_i_cancle,.what_can_i_watch,.is_netflix_good{
+        font-size: 18px;
+        font-weight: 400;
+    }
+    .plus_3rd, .plus_4th,.plus_5th,.plus_6th{
+        right: 0px;
+        font-size: 33px;
+    }
+    .detail_3rd{
+        height: 180px;
+    }
+    .after_faq{
+        left: 200px;
+    }
+    .call{
+        top: 220px;
+        left: 20px;
+    }
+    .foot{
+        width: 598.4px;
+        height: 300px;
+        right:65px;
+       
+    }
+    .row_1{
+        left: 0px;
+        width: 150px;
+        float: none;
+       
+        
+    }
+    .row_2{
+        left: 0px;
+      
+    }
+    .row_3{
+        left: 210px;
+        float: none;
+        width: 150px;
+        bottom: 145px;
+           
+    }
+    .row_4{
+        right: 153px;
+        bottom: 148px;
+        
+    }
+
+    .footer_lang_change{
+        top:250px;
+        left: 10px;
+    }
+    
+
+}
+/* MINI LAPTOP */
+@media screen and (min-width:993px) and (max-width:1024px) {
+    .get_started{
+        margin-right: 180px
+    }
+    .enjoy_your_tv{
+        font-size: 48px;
+        font-weight: 900;
+        margin-left: 0px;
+    }
+
+    .second_section_punchline{
+    margin-left: 0px;
+    font-size: 22.5px;
+     
+    }
+    .second_section_punchline_3{
+        margin-left: 0px;
+        font-size: 22.5px;
+    }
+    .tvimg_and_video{
+    position:relative;
+    right: 0px;    
+    }
+    .tv_png{
+        height: 355.5px;
+        width: 474px;
+    }
+    .loop_video{
+        position: absolute;
+        left:580px;
+        top: 0px;
+    }
+    .tv_png_video{
+        width: 374px;
+        height: 355px;
+    }
+    .third_section{
+        height: 80vh;
+    }
+    .third_section_mobileimg{
+        position: relative;
+        left: 0px;
+        bottom: 0px;
+        width: 474px;
+        height: 355.5px;
+    }    
+    .mobileimg_down_section{
+        position:absolute;
+        left: 80px;
+        top:1450px;
+        width: 350px;
+
+    }
+    .stranger-things_downloading{
+        margin-left: 70px;
+    }
+    .loading_downloading{
+        margin-left: 70px;
+    }
+    .download_your-show{
+        position: relative;
+        left: 500px;
+        width: 474px;
+       
+    }
+    .save_your_fav{
+        position: relative;
+        bottom: 200px;
+        left: 490px;
+        width: 474px;
+    }
+    .watch-everywhere{
+        position: relative;
+        left: 40px;
+        top: 150px;
+        text-align: left;
+        width: 474px;
+    }
+    .stream_unlimited{
+        position: relative;
+        left: 40px;
+        top: 150px;
+    }
+    .tv_tab_mob{
+        position: relative;
+        right: 0px;
+    }
+    .kids-profile{
+        width: 474px;
+        right:0px;
+        left: 500px;
+        top: 80px;
+    }
+    .kids-members{
+        font-size: 24px;
+        font-weight: 400;
+        width: 474px;
+        top: 120px;
+        left: 480px;
+    }
+    .kids_cartoon{
+        margin-left: 0px;
+        width: 474px;
+        height: 355.5px;
+        position: relative;
+        bottom: 150px;
+    }
+    .sixth_section{
+        height: 250vh;
+    }
+    .frequently_asked_question{
+        left: 100px;
+        font-size: 48px;
+        font-weight: 900;
+        width: 704px;
+        height: 40.8px;
+    }
+    .first-question{
+        font-size: 18px;
+        font-weight: 400;
+        width: 912px;
+        left: 6%;
+    }
+    .second-question{
+        font-size: 18px;
+        font-weight: 400;
+        width: 912px;
+        left: 6%;
+}
+.third-question, .forth-question,.fifth-question,.sixth-question{
+    font-size: 18px;
+    font-weight: 400;
+    width: 912px;
+    left: 6%;
+}
+.detail_6th{
+    height: 180px;
+}
+.after_faq{
+    left: 300px;
+}
+.foot{
+  
+    width: 868px;
+    height: 200px;
+}
+
+.rs-1{
+    position: relative;
+    right: 490px;
+    top: 150px;
+
+}
+.rs-2{
+    position: relative;
+    top: 110px;
+    right: 210px;
+
+}
+.rs-3{
+    position: relative;
+    top: 70px;
+    left: 73px;
+    
+}
+.footer_lang_change{
+    left: 150px;
+}
+
+}
+/* LARGE SIZE LAPTOP */
+
+@media  screen and (min-width:1025px)and (max-width:1441px) {
+
+    .loop_video{
+        position: absolute;
+        left:828px;
+        top: 90px;
+     }
+     .third_section{
+        height: 80vh;
+     }
+     .mobileimg_down_section{
+        /* top: 1280px; */
+        left: 245px;
+        height: 84px;
+        width: 273px;
+    }
+    .stranger-things_downloading{
+        margin-left: 50px;
+    }
+    .loading_downloading{
+        margin-left: 70px;
+    }
+    
+    .kids-profile{
+        left: 350px;
+        top: 0px;
+    }   
+    .kids-members{
+        top: 130px;
+    }
+    .kids_cartoon{
+        position: relative;
+        bottom: 40px;
+        top: 0px;
+        right: 55px;
+        width: 546px;
+        height: 409.5px;
+        display: inline;
+    }
+    .footer_lang_change{
+        left: 190px;
+    }
+}
+
