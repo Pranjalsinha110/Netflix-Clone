@@ -1,6 +1,6 @@
 # Netflix-clone
-# Netflix-clone
-Netflix-clone
+# live link  https://streame-ollo-e15fe1.netlify.app/
+
 Welcome to the Netflix Clone project! This project is a recreation of the popular streaming platform, Netflix, built using HTML, CSS, JavaScript, and Bootstrap. This project was a challenging yet rewarding experience that provided valuable insights into web development and responsive design.
 
 **Table of Contents**
