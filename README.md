@@ -24,7 +24,7 @@ Welcome to the Netflix Clone project! This project is a recreation of the popula
 **Acknowledgements**
 
 
-**Project Overview**
+# Project Overview
 
 The Netflix Clone project aims to replicate the core features and design of the Netflix website. This includes a responsive layout, dynamic content display, and an intuitive user interface. The primary focus of this project was to implement a fully responsive design that works seamlessly across various devices, using JavaScript to handle dynamic elements and interactions.
 
