@@ -65,6 +65,15 @@ Open index.html in your preferred web browser.
 Usage
 Once the project is set up, you can explore the various features and functionalities of the Netflix Clone. Navigate through the different sections, interact with the dynamic content, and experience the responsive design.
 
+# Challenges Faced
+
+During the development of this project, several challenges were encountered, particularly in making the site responsive using JavaScript. Some of the key challenges included:
+
+Ensuring that the layout adapts correctly to different screen sizes and resolutions.
+Implementing dynamic content display and interactions using JavaScript.
+Overcoming issues with cross-browser compatibility and performance optimization.
+After extensive learning and applying various logical solutions, these challenges were successfully overcome, resulting in a fully functional and responsive Netflix clone.
+
 # Usage
 
 Once the project is set up, you can explore the various features and functionalities of the Netflix Clone. Navigate through the different sections, interact with the dynamic content, and experience the responsive design.
