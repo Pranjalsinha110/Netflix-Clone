@@ -21,8 +21,6 @@ Welcome to the Netflix Clone project! This project is a recreation of the popula
 
 **Usage**
 
-**License**
-
 **Acknowledgements**
 
 **Project Overview**
