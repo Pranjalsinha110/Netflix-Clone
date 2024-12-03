@@ -65,7 +65,7 @@ Open index.html in your preferred web browser.
 Usage
 Once the project is set up, you can explore the various features and functionalities of the Netflix Clone. Navigate through the different sections, interact with the dynamic content, and experience the responsive design.
 
-**Usage**
+# Usage
 
 Once the project is set up, you can explore the various features and functionalities of the Netflix Clone. Navigate through the different sections, interact with the dynamic content, and experience the responsive design.
 
